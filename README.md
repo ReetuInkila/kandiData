@@ -8,8 +8,8 @@ Numeerisen tarkastelun suoritan ohjelmointikieli Pythonin ja sen kvanttimekaanis
 ## Tutkielman päätelmät tiivistettynä
 Kun ympäristö vaikuttaa kvanttisysteemin tilaan, kvanttitilan dekoherenssi kasvaa ajan myötä. Tämä merkitsee sitä, että kubitin kvanttitila ei säilytä informaatiotaan loputtomasti. Kun haluamme havaita kubitin spin-tilan mekaanisen värähtelijän taajuuden muutoksesta, täytyy mittauksen olla tarpeeksi nopea. Näin kvanttitilan häviäminen ei ehdi vaikuttaa kubitin tilaan. Toisaalta pidemmällä mittauksella on mahdollista havaita pienempiä muutoksia mekaanisen värähtelijän taajuudessa. Optimaalisen mittausajan tutkimiseksi tein simulaation, jossa mekaanisen värähtelijän viivanleveys on laskettu mittausajan sekä spin-tilan häviämisnopeuden tulon funktiona.
 
-![Screenshot](g_df_500s.pdf)
-Mekaaniseen värähtelijän resonanssitaajuuden muutos sen ominaistaajuudesta, siihen kytketyn kubitin spinin romahdusoperaattoreiden  ja mittausajan tulon funktiona. 
+Kuvaaja: ![Mekaaniseen värähtelijän resonanssitaajuuden muutos sen ominaistaajuudesta, siihen kytketyn kubitin spinin romahdusoperaattoreiden  ja mittausajan tulon funktiona.](g_df_500s.pdf)
+
 
 Kuviosta voidaan nähdä resonanssitaajuuden lähestyvän kytkemättömän värähtelijän taajuutta, kun mittausajan sekä spin-tilan häviämisnopeuden tulo kasvaa yli sadantuhannen. Esimerkiksi jos systeemin mittausaika on 0.02 sekuntia, voimme havaita mekaanisessa värähtelijässä yli 0.05 kHz taajuusmuutokset. Kuvion mukaan tällä mittausajalla muutos mekaanisen värähtekijän taajuudessa olisi siis havaittavisa kun spin tilan häviämisnopeus on alle 5000 kHz.
 
