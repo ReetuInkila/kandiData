@@ -1,3 +1,5 @@
+import numpy as np
+
 def viivanleveys(x_list, y_list, first=True):
     """
     Laskee kaksi maksimia sisältävän funktion ensimmäisen tai toisen piikin viivanleveyden, 
